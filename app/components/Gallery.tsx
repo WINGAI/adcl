@@ -17,7 +17,7 @@ const Gallery: React.FC = () => {
   const [availableItems, setAvailableItems] = useState<GalleryItem[]>([]);
   const [loading, setLoading] = useState(false);
 
-  const itemsPerLoad = 4;
+  const itemsPerLoad = 6;
 
   // Fisher-Yates shuffle algorithm
   const shuffleArray = (array: GalleryItem[]) => {

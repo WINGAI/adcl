@@ -1895,7 +1895,7 @@
     "slug": "construction",
     "title": "CONSTRUCTION",
     "description": "",
-    "imageUrl": "/projects/interior/planning.jpg",
+    "imageUrl": "/projects/planning.jpg",
     "projects": []
   },
 
@@ -1903,7 +1903,7 @@
     "slug": "compliance-approval",
     "title": "COMPLIANCE APPROVAL",
     "description": "",
-    "imageUrl": "/projects/interior/public_space.jpg",
+    "imageUrl": "/projects/public_space.jpg",
     "projects": []
   }
 
